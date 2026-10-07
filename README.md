@@ -9,8 +9,7 @@ Node.js, Express and MongoDB.
 - Vite
 - Node.js
 - Express
-- MongoDB
-- Mongoose
+- PostgreSQL
 
 ## Project Structure
 
